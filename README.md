@@ -1,2 +1,1 @@
-# firstrepo
-My first git repository
+A test repository created to learn about git
